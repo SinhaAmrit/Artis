@@ -1,7 +1,1 @@
-const express = require('express');
-const { generateImage } = require('../controllers/openaiController');
-const router = express.Router();
-
-router.post('/generateimage', generateImage);
-
-module.exports = router;
+const express=require("express"),{generateImage:r}=require("../controllers/openaiController"),router=express.Router();router.post("/v1.0",r),module.exports=router;
