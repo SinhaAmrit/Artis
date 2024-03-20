@@ -9,7 +9,7 @@ Can create original, realistic images and art from a text description. It can co
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
-## Screenshot(s)
+## Screenshot(s) 
 
 ![App Screenshot](https://i.ibb.co/KxcNCqM/smartmockups-lbtowzrx.jpg)
 
